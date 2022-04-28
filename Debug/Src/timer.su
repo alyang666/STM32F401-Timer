@@ -1,0 +1,8 @@
+timer.c:10:7:TIM5_set_periodic_event	24	static
+timer.c:54:7:TIM5_wait_for_periodic_event	16	static
+timer.c:69:8:TIM5_clear_periodic_event	4	static
+timer.c:92:6:TIM2_Led_pwm_init	16	static
+timer.c:118:6:TIM2_Led_pwm_set	16	static
+timer.c:126:10:TIM2_Led_pwm_get	4	static
+timer.c:153:6:TIM4_init	24	static
+timer.c:253:10:TIM4_pulse_capture	24	static
